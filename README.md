@@ -1,4 +1,7 @@
  # Project Report: SQL Query Analysis for Pizza Sales  
+ ![image](https://github.com/user-attachments/assets/dee47282-4ab9-4adb-9c3d-186c1d4a097d)  
+ ![image](https://github.com/user-attachments/assets/e2b7603a-a812-4a6e-aad8-aa8919199f87)
+
  ## 1. Introduction  
  ## 1.1 Project Overview  
 This project aims to analyze various aspects of pizza sales using SQL queries. The analysis includes retrieving the total number of orders, calculating total revenue, identifying the highest-priced pizza, and more. The goal is to gain insights into sales performance and customer preferences.  
@@ -9,6 +12,10 @@ The main objectives of this project are:
 3. To provide insights and reports based on the extracted data.
 
 # 2. Database Schema  
+I carefully analyzed the table relationship in the pizza sales database and then conducted table 
+relations using the JOIN clause. The table figure below shows pizza sales DBD.
+![image](https://github.com/user-attachments/assets/a1825ddb-d5b3-4384-a673-9b82c9b69fea)
+
 ## 2.1 Tables Involved  
 1. orders: Contains order details including order_id and order_time
 2. order_details: Contains details of each order, including quantity and price.
