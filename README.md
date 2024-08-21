@@ -238,7 +238,7 @@ where ranking<=3
 
 This project aimed to analyze the order patterns, revenue, and popular items in a pizza delivery business using SQL queries. The analysis provided several key insights:
 
-1. Order Volume:
+1. **Order Volume**:  
 The total number of orders placed was determined, giving a clear picture of the business's order volume.
 
 3. Revenue Generation:
