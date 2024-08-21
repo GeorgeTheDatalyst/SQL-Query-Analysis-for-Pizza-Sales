@@ -263,4 +263,26 @@ The distribution of orders by hours of the day was examined, revealing peak orde
 The category-wise distribution of pizzas was analyzed, providing a detailed view of customer preferences across different pizza categories.  
 These findings offer valuable insights into customer behavior, product popularity, and revenue generation. They can be used to make informed decisions on menu adjustments, marketing strategies, and operational improvements to enhance business performance.
 
+9. **Average Pizzas Ordered Per Day**:  
+The average number of pizzas ordered per day was calculated, offering insights into daily sales trends.  
+
+10. **Top Pizza Types by Revenue**:  
+The top 3 most ordered pizza types based on revenue were identified, highlighting the most profitable items.  
+
+11. **Category Contribution to Revenue**:  
+The percentage contribution of each pizza category to the total revenue was calculated, showing which categories are the most financially significant.  
+
+12. **Pizza Type Contribution to Revenue**:  
+The percentage contribution of each pizza type to the total revenue was determined, providing a detailed breakdown of revenue sources.  
+
+13. **Top Pizza Types by Revenue for Each Category**:  
+The top 3 most ordered pizza types based on revenue for each category were identified, offering a granular view of popular items within each category.  
+
+14. **Cumulative Revenue Over Time**:  
+The cumulative revenue generated over time was calculated, showing the growth of revenue and helping to identify trends.
+
+  
+
+These findings offer valuable insights into customer behavior, product popularity, and revenue generation. They can be used to make informed decisions on menu adjustments, marketing strategies, and operational improvements to enhance business performance. The detailed analysis of order patterns, revenue contributions, and customer preferences provides a solid foundation for strategic planning and business growth.  
+
  
