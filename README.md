@@ -41,5 +41,54 @@ FROM
 This query calculates the total revenue generated from pizza sales.  
 ```
 ```
+3. identify highest prized pizza
+```sql
+SELECT 
+    pt.name, p.price
+FROM
+    pizzas p
+        JOIN
+     pizza_types pt USING (pizza_type_id)
+ORDER BY price DESC
+LIMIT 1;
+```
+This query identifies the highest-priced pizza  
+```
+```
+4. identify the most commmon pizza size ordered
+```sql
+SELECT 
+    pt.name, p.size, COUNT(*) AS common_pizza_size_ordered
+FROM
+    orders o
+        JOIN
+    order_details od USING (order_id)
+        JOIN
+    pizzas p ON p.pizza_id = od.pizza_id
+        JOIN
+    pizza_types pt ON pt.pizza_type_id = p.pizza_type_id
+GROUP BY pt.name , p.size
+ORDER BY common_pizza_size_ordered DESC;
+```
+This query identifies the most common pizza size ordered  
+```
+```
+5. List top 5 most common ordered pizza types along with their quatities
+```sql
+SELECT 
+    pt.name,count(order_id) as quantity
+FROM
+    pizza_types pt
+        JOIN
+    pizzas p USING (pizza_type_id)
+        JOIN
+    order_details od ON od.pizza_id = p.pizza_id
+GROUP BY pt.name
+ORDER BY quantity DESC
+LIMIT 5;
+```
+This query lists the top 5 most commonly ordered pizza types along with their quantities.
+```
+```
 
  
