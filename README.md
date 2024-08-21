@@ -241,25 +241,25 @@ This project aimed to analyze the order patterns, revenue, and popular items in 
 1. **Order Volume**:  
 The total number of orders placed was determined, giving a clear picture of the business's order volume.
 
-3. Revenue Generation:
+3. **Revenue Generation**:  
 The total revenue generated from pizza sales was calculated, highlighting the financial performance of the business.
 
-4. High-Value Items:
+4. **High-Value Items**:  
 The highest priced pizza was identified, which can help in understanding customer preferences for premium products.
 
-5. Popular Sizes:
+5. **Popular Sizes**:  
 The most common pizza size ordered was determined, providing insights into customer preferences regarding pizza sizes.
 
-6. Top Pizza Types:
+6. **Top Pizza Types**:   
 The top 5 most commonly ordered pizza types were listed along with their quantities, indicating the most popular items on the menu.
 
-7. Category Analysis:
+7. **Category Analysis**:  
 The total quantity of each pizza ordered by category was analyzed, helping to understand the distribution of orders across different categories.
 
-8. Order Timing:
+8. **Order Timing**:  
 The distribution of orders by hours of the day was examined, revealing peak ordering times and helping to optimize staffing and operations.
 
-9. Category-wise Distribution:
+9. **Category-wise Distribution**:  
 The category-wise distribution of pizzas was analyzed, providing a detailed view of customer preferences across different pizza categories.  
 These findings offer valuable insights into customer behavior, product popularity, and revenue generation. They can be used to make informed decisions on menu adjustments, marketing strategies, and operational improvements to enhance business performance.
 
