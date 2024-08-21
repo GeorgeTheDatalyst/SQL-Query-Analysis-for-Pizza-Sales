@@ -1,4 +1,4 @@
- # Project Report: SQL Query Analysis for Pizza Sales  
+ # Project Report: MySQL Query Analysis for Pizza Sales  
  
 ![image](https://github.com/user-attachments/assets/d5e32bea-a8f2-4d2a-97e1-564a82c13779)
 
@@ -12,8 +12,6 @@ The main objectives of this project are:
 3. To provide insights and reports based on the extracted data.
 
 # 2. Database Schema  
-I carefully analyzed the table relationship in the pizza sales database and then conducted table 
-relations using the JOIN clause. The table figure below shows pizza sales DBD.
 ![image](https://github.com/user-attachments/assets/a1825ddb-d5b3-4384-a673-9b82c9b69fea)
 
 ## 2.1 Tables Involved  
